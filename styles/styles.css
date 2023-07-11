@@ -247,3 +247,37 @@ cursor: move;
 .name{
     color:#ea5172;
 }
+.contact{
+    background-image: url("../Flower Asset/pexels-photo-414660.webp");
+    /* background-position: center; */
+    width:59%;
+    margin:auto;
+    height: 400px;
+    margin-bottom: 120px;
+    background-repeat: no-repeat;
+    border-style: groove;
+
+}
+.us{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 60px;
+}
+.branch{
+    padding:50px;
+    /* padding-left:150px; */
+    font-size: 30px;
+    text-align: center;
+    color:rgb(31, 22, 22)
+}
+.branch-discription{
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.call{
+    text-align:center;
+    padding-top: 30px;
+    font-size: 27px;
+    color: #3b3a3a;
+}
