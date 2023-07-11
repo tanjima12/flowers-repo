@@ -43,12 +43,56 @@ span{
 }
 .instagram-heading{
     text-align: center;
-    padding:80px;
+    padding:50px;
 }
 .nav-images{
     display:flex;
     justify-content: center;
     gap:25px;
     margin-top: 0px;
+}
+.second-part{
+    text-align: center;
+    padding:30px;
+}
+.figuer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    padding:40px;
+}
+.figure-pic1{
+width: 310px;
+height: 430px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding-top: 40px;
+padding-right: 40px;
+padding-left: 40px;
+}
+.figure-pic2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding-top:50px;
+padding-bottom: 50px;
+padding-left: 20px;
+}
+.figure-pic3{
+    width: 310px;
+height: 430px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(27, 1, 14, 0.15);
+padding-top: 40px;
+padding-right: 40px;
+padding-left: 40px;
+}
+figcaption{
+    text-align: center;
+    padding:10px;
+    font-size: medium;
+}
+a{
+    color: black;
 }
 
