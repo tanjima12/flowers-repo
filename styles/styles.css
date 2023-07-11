@@ -57,6 +57,9 @@ border-style:none;
 cursor:pointer;
 
 }
+.btn:hover{
+    background-color:rgb(232, 146, 84);
+}
 p{
     font-size:larger;
 }
@@ -226,6 +229,9 @@ border-radius: 8px;
 background: #E55473;
 border-style: none;
 cursor: move;
+}
+.l-btn:hover{
+    background-color: antiquewhite;
 }
 .footer-part{
     text-align: center;
