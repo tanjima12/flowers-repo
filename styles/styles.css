@@ -3,6 +3,26 @@
     padding:0px;
     font-family: poppins;
 }
+.item{
+    display:flex;
+    justify-content: space-around;
+    background-color:#ec7b94;
+}
+ ul{
+    display:flex;
+    list-style: none;
+}
+li{
+    padding:15px;
+    font-size: larger;
+}
+.main-name{
+    color:rgb(150, 208, 208);
+}
+.logo-name{
+    color:aliceblue;
+    padding:20px;
+}
 .parent{
     display:flex;
     justify-content:center;
