@@ -172,3 +172,58 @@ font-size: medium;
     color:blue;
     background-color: cadetblue;
 }
+.form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:40px;
+    gap:30px;
+}
+.form-tittle{
+    text-align: center;
+    padding-top:180px;
+}
+.form-back{
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    width: 1440px;
+height: 449px;
+margin:120px;
+margin-left:220px;
+
+}
+input{
+    
+width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+text-align: center;
+}
+.l-btn{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+border-style: none;
+cursor: move;
+}
+.footer-part{
+    text-align: center;
+    background-color: black;
+    width:100%;
+    margin:auto;
+    height: 350px;
+    padding-top:150px;
+}
+.footer-description{
+    color:#FFF;
+}
+.footer-finishing{
+    color:blanchedalmond;
+}
+.footer-tittle{
+    color:azure;
+}
+.name{
+    color:#ea5172;
+}
