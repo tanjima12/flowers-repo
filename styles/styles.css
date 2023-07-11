@@ -24,15 +24,17 @@
      margin-bottom: 0px;
 }
 .btn{
-    border-radius:solid;
+    
     color: #FFF;
 font-size: 23px;
 font-style: normal;
 font-weight: 700;
 border-radius: 8px;
 background: #ea5172;
-padding: 20px 43px;
+padding: 20px 30px;
 gap:10px;
+border-style:none;
+cursor:pointer;
 
 }
 p{
@@ -95,4 +97,78 @@ figcaption{
 a{
     color: black;
 }
+.service{
+    display:flex;
+    justify-content: center;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+align-items: center;
+padding:50px;
+width:60%;
+margin:auto;
+margin-top: 50px;
+margin-bottom:90px;
+}
+.figca{
+    padding-right: 80px;
+}
+.ser1{
+    gap:30px;
+    padding-left: 45px;
+}
+.ser2{
+    gap:30px;
+    padding-left: 80px;
+}
+.ser3{
+    gap:30px;
+    padding-left: 40px;
+}
+.deal{
+    display:flex;
+    border-radius: 8px;
+    background: rgba(237, 74, 110, 0.05);
+    justify-content: center;
+    align-items: center;
+    gap:150px;
+     
+}
+.deal-tittle{
+    padding-left:40px;
+}
+.deal-img{
+    padding-left: 20px;
+}
+.btn2{
+    display: inline-flex;
+padding: 20px 43px;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border-style: none;
+cursor: grab;
+font-size: medium;
+}
+.second-btn{
+    display:flex;
+    justify-content: center;
+    padding-right:230px;
+    padding-top: 30px;
+    
 
+}
+.o-f1{
+    color:chartreuse;
+
+}
+.o-f2{
+    color:brown;
+
+}
+.o-f3{
+    color:chocolate;
+}
+.btn2:hover{
+    color:blue;
+    background-color: cadetblue;
+}
